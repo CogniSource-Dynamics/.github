@@ -1,5 +1,5 @@
 # CogniSource Dynamics LLC
-
+![CogniSource Dynamics Banner or Logo]([https://six-industries.com/assets/img/logo.png](https://static.wixstatic.com/media/186290_2dee4c9a60a64f1aa616dbc00f47bede~mv2.png/v1/fill/w_316,h_126,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/CSD-Logo.png))
 ## Real-Time Intelligence, Real-World Protection
 
 Welcome to the official GitHub repository of CogniSource Dynamics LLC, your trusted partner in real-time threat intelligence and real-world protection.
