@@ -1,5 +1,5 @@
 # CogniSource Dynamics LLC
-![CogniSource Dynamics Banner or Logo](https://imgur.com/a/cIKrtzq)
+![CogniSource Dynamics Logo](https://imgur.com/a/cIKrtzq)
 ## Real-Time Intelligence, Real-World Protection
 
 Welcome to the official GitHub repository of CogniSource Dynamics LLC, your trusted partner in real-time threat intelligence and real-world protection.
